@@ -6,7 +6,7 @@ import (
 	"strings"
 )
 
-// 5. SGPC - Sistema de gestión de proyectos creativos
+// SGPC - Sistema de gestión de proyectos creativos
 
 type Proyecto struct {
 	Nombre      string
